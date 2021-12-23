@@ -33,7 +33,7 @@ You will also see any lint errors in the console.
 ## Git clone
 
 You can clone this repository in your local system using this command in your server-
-### `github.`
+### `https://github.com/riya9038/calculator-App.git`
 
 
 
